@@ -1,6 +1,6 @@
 # Projekt DataWorkshop - Warsaw SMOG Project
 ---
-Contributions to the Warsaw SMOG Team:
+Contributions to the Warsaw SMOG Team
 
 Shedule:
 
